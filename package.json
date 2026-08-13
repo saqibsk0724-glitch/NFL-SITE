@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s03vbtp",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0c4",
+  "name": "NFL site",
+ 
   "scripts": {
     "start": "vite",
     "dev": "vite",
