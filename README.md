@@ -1,19 +1,19 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# NFL Site — Non-Fungible Tokens (NFTs)
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple NFT marketplace-style website featuring NFL-themed digital collectible items.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could go further with one of our advanced courses 🚀
+## About
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+This project was built using **HTML** and **CSS** to practice and strengthen my front-end development skills. It includes a product-style layout with images of collectible items, navigation links, and styled action buttons.
 
-Happy Coding!
+## Tech Stack
+
+- HTML
+- CSS
+
+## What I Learned
+
+- Structuring pages with semantic HTML
+- Styling layouts, buttons, links, and cards with CSS
+- Using classes to create reusable styles
+- Working with images and basic page design
